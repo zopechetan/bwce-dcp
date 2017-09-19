@@ -2,7 +2,7 @@
     "family": "launch-plugin-app",
     "containerDefinitions": [
         {
-            "image": "750037626691.dkr.ecr.ap-southeast-1.amazonaws.com/jms-basic:latest",
+            "image": "750037626691.dkr.ecr.ap-southeast-1.amazonaws.com/bwce-dcp:latest",
             "name": "dcp-plugin",
             "cpu": 10,
             "memory": 512,
